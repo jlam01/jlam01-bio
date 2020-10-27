@@ -1,3 +1,5 @@
+**Coding Language:** Python using Jupyter
+
 ## Question: Are there any correlations between COVID cases within colleges and within counties? Are the mask regulations for both counties and colleges involved with the number of cases?
 
 ### Conceptually, how do you propose to go about addressing this question?
@@ -7,5 +9,5 @@ In order to approach the question I have, I would need to obtain the number of C
 ### What datasets did you use to answer these questions? Where did you get these from?
 
 College and county cases were both found from the new york times. I was able to find a dataset from kaggle containing info from the census bureau on county population. Lastly, I had a lot of trouble finding a dataset on college population, mask regulation in counties, and mask regulation in colleges, so for each, I went and did my own research by going to each college site or county to figure out which places have a mask regulation in place as well as the college population info.
-- **College cases:** [New York Times College Cases csv](https://raw.githubusercontent.com/nytimes/covid-19-data/master/colleges/colleges.csv)
+- **College cases:** [New York Times College Cases csv](https://raw.githubusercontent.com/nytimes/covid-19-data/master/colleges/colleges.csv) Describes the number of college cases and describes it by the college, state, county and city
 - **County cases:** [New York Times US County Cases csv](https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-counties.csv)
