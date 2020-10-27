@@ -22,6 +22,7 @@ I conducted a *linear regression* on the college and county cases by population 
 ### What did you find? Present results.
 ![collegecountycases](https://user-images.githubusercontent.com/67992204/97264093-a5736c80-17fa-11eb-9357-33ce63800bce.png)
 **Figure 1. College and County Cases by Population.** The number of cases (y-axis) per population (x-axis) for college and county was plotted on a linear regression graph (R^2=0.304,0.794) and t-tests were performed (p=2.213e<sup>-85</sup>,1.566e<sup>-40</sup>).
+
 ![ratiocollegecountycases](https://user-images.githubusercontent.com/67992204/97264096-a7d5c680-17fa-11eb-88a7-6c9f43503a53.png)
 **Figure 2. Ratio of cases in Colleges vs. Counties.** The number of cases for colleges and counties were divided by the population size of each, respectively, and plotted on a graph. The correlation was calculated (corr=0.395) and a t-test was performed (p=0.098).
 
