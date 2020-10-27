@@ -17,3 +17,4 @@ College and county cases were both found from the new york times. I was able to 
 - **College Face Mask Requirements:** Describes whether or not for each college if mask usage is required. This data was collected directly from each college website on their responses to COVID-19. If no response could be found on the site, the college will be labeled to have no face mask requirement. [College Face Mask Dataset]()
 
 ### What types of analyses did you conduct?
+I conducted a *linear regression* on the college and county cases by population to see if the number of cases is correlated with the population. I also conducted a *correlation analysis* between the ratios of cases by population between county and college. Lasty, I conducted several *t-tests*: college cases and population, county cases and population, and college case ratio and county case ratio (which is case divided by population).
