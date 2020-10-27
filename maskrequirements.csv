@@ -1,0 +1,52 @@
+﻿state,mask
+Alabama,TRUE
+Alaska,FALSE
+Arkansas,TRUE
+California,TRUE
+Colorado,TRUE
+Connecticut,TRUE
+Delaware,TRUE
+"Washington, D.C.",TRUE
+Florida,FALSE
+Georgia,FALSE
+Hawaii,TRUE
+Idaho,FALSE
+Illinois,TRUE
+Indiana,TRUE
+Iowa,FALSE
+Kansas,TRUE
+Kentucky,TRUE
+Lousiana,TRUE
+Maine,TRUE
+Maryland,TRUE
+Massachusetts,TRUE
+Michigan,TRUE
+Minnesota,TRUE
+Mississippi,FALSE
+Missouri,FALSE
+Montana,TRUE
+Nebraska,FALSE
+Nevada,TRUE
+New Hamshire,FALSE
+New Jersey,TRUE
+New Mexico,TRUE
+New York,TRUE
+North Carolina,TRUE
+North Dakota,FALSE
+Ohio,TRUE
+Oklahoma,FALSE
+Oregon,TRUE
+Pennysylvania,TRUE
+Puerto Rico,TRUE
+Rhode Island,TRUE
+South Carolina,FALSE
+South Dakota,FALSE
+Tennessee,FALSE
+Texas,TRUE
+Utah,FALSE
+Vermont,TRUE
+Virginia,TRUE
+Washington,TRUE
+West Virginia,TRUE
+Wisconsin,TRUE
+Wyoming,FALSE

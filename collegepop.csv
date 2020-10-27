@@ -1,0 +1,1704 @@
+﻿college,collegepop,collegemask
+Alabama A&M,6001,TRUE
+Alabama State University,4760,TRUE
+Athens State University,4092,TRUE
+Auburn University,4836,TRUE
+Auburn University at Montgomery,4894,TRUE
+Bevill State Community College,3873,TRUE
+Birmingham-Southern College,1283,TRUE
+Calhoun Community College,9861,TRUE
+Central Alabama Community College,1681,TRUE
+Enterprise State Community College,1705,TRUE
+Gadsden State Community College,4979,TRUE
+Huntingdon College,1102,TRUE
+Jacksonville State University,8567,TRUE
+Lurleen B. Wallace Community College,1838,TRUE
+Marion Military Institute,446,TRUE
+Miles College,1650,TRUE
+Samford University,5509,TRUE
+Snead State Community College,2220,TRUE
+Southern Union State Community College,4828,TRUE
+Spring Hill College,1485,TRUE
+Troy University,7911,TRUE
+Troy University Dothan,3023,TRUE
+Troy University Montgomery,572,TRUE
+"Troy State University, Phenix City",885,TRUE
+Tuskegee University,3289,TRUE
+University of Alabama,3143,TRUE
+University of Alabama at Birmingham,2299,TRUE
+University of Alabama in Huntsville,9101,TRUE
+University of Montevallo,2717,TRUE
+University of North Alabama,7204,TRUE
+University of South Alabama,5898,TRUE
+University of West Alabama,4646,TRUE
+Ilisagvik College,111,TRUE
+University of Alaska Anchorage,15733,TRUE
+University of Alaska Fairbanks,"5,413",TRUE
+University of Alaska Southeast,2342,TRUE
+American Samoa Community College,1035,TRUE
+Arizona State University,71946,TRUE
+Arizona Western College,11653,TRUE
+Dine College,1999,TRUE
+Embry-Riddle Aeronautical University at Prescott,34000,TRUE
+Grand Canyon University,83284,TRUE
+Midwestern University at Glendale,83284,TRUE
+Northern Arizona University,12941,TRUE
+University of Arizona,43088,TRUE
+Arkansas State University,14125,TRUE
+Arkansas Tech University,11830,TRUE
+Harding University,5541,TRUE
+Henderson State University,3334,TRUE
+Hendrix College,1249,TRUE
+John Brown University,2613,TRUE
+Lyon College,672,TRUE
+National Park College,2017,TRUE
+NorthWest Arkansas Community College,7715,TRUE
+Ouachita Baptist University,1545,TRUE
+Southern Arkansas University,4345,TRUE
+University of Arkansas,27558,TRUE
+University of Arkansas Community College Rich Mountain,938,TRUE
+University of Arkansas at Little Rock,300,TRUE
+University of Arkansas at Monticello,3700,TRUE
+University of Arkansas at Pine Bluff,2612,TRUE
+University of Arkansas for Medical Sciences,2460,TRUE
+University of Arkansas-Fort Smith,6608,TRUE
+University of Central Arkansas,11350,TRUE
+University of the Ozarks,755,TRUE
+Academy of Art University,6694,TRUE
+Antelope Valley College,14298,TRUE
+Azusa Pacific University,9926,TRUE
+Bakersfield College,23195,TRUE
+Biola University,6172,TRUE
+California Baptist University,9941,TRUE
+California Institute of Technology,2238,TRUE
+California Lutheran University,3078,TRUE
+"California Polytechnic State University, San Luis Obispo",22370,TRUE
+"California State Polytechnic University, Pomona",25894,TRUE
+California State University Maritime Academy,911,TRUE
+"California State University, Bakersfield",10131,TRUE
+"California State University, Channel Islands",7455,TRUE
+"California State University, Chico",17875,TRUE
+"California State University, Dominguez Hills",16219,TRUE
+"California State University, East Bay",16538,TRUE
+"California State University, Fullerton",40905,TRUE
+"California State University, Long Beach",37622,TRUE
+"California State University, Los Angeles",28531,TRUE
+"California State University, Monterey Bay",7584,TRUE
+"California State University, Northridge",41319,TRUE
+"California State University, Sacramento",30716,TRUE
+"California State University, San Bernardino",20692,TRUE
+"California State University, San Marcos",15755,TRUE
+"California State University, Stanislaus",10327,TRUE
+Chapman University,9392,TRUE
+Claremont McKenna College,1345,TRUE
+Concordia University Irvine,4229,TRUE
+Cypress College,15673,TRUE
+Dominican University of California,1744,TRUE
+Feather River College,3000,TRUE
+Foothill College,12531,TRUE
+Fresno Pacific University,4105,TRUE
+Fresno State University,21462,TRUE
+Harvey Mudd College,861,TRUE
+Holy Names University,629,TRUE
+Humboldt State University,8525,TRUE
+Los Angeles Community College District,28206,TRUE
+Loyola Marymount University,9618,TRUE
+Menlo College,744,TRUE
+Mills College,1310,TRUE
+MiraCosta College,14617,TRUE
+Modesto Junior College,62142,TRUE
+Naval Postgraduate School,2704,TRUE
+Notre Dame de Namur University,1613,TRUE
+Occidental College,1972,TRUE
+Pepperdine University,7710,TRUE
+Pitzer College,1074,TRUE
+Point Loma Nazarene University,4417,TRUE
+Pomona College,1700,TRUE
+Rio Hondo College,19948,TRUE
+Saint Mary's College of California,2646,TRUE
+San Diego Mesa College,23532,TRUE
+San Diego Miramar College,15692,TRUE
+San Diego State University System,35135,TRUE
+San Francisco State University,29758,TRUE
+San Jose State University,35835,TRUE
+Santa Ana College,28083,TRUE
+Santa Clara University,8631,TRUE
+Santa Monica College,29760,TRUE
+Scripps College,1083,TRUE
+Shasta College,9160,TRUE
+Skyline College,9221,TRUE
+Solano Community College,9625,TRUE
+Sonoma State University,9481,TRUE
+Southwestern College,19783,TRUE
+Stanford University,17534,TRUE
+Teachers College of San Joaquin,846,TRUE
+"University of California, Berkeley",41891,TRUE
+"University of California, Davis",30982,TRUE
+"University of California, Hastings College of Law",1028,TRUE
+"University of California, Irvine",35242,TRUE
+"University of California, Los Angeles",44027,TRUE
+"University of California, Merced",7336,TRUE
+"University of California, Riverside",23278,TRUE
+"University of California, San Diego",88446,TRUE
+"University of California, San Francisco",3107,TRUE
+"University of California, Santa Barbara",25057,TRUE
+"University of California, Santa Cruz",19457,TRUE
+University of La Verne,8159,TRUE
+University of Redlands,4898,TRUE
+University of San Diego,8905,TRUE
+University of San Francisco,11080,TRUE
+University of Southern California,45687,TRUE
+University of the Pacific,3640,TRUE
+Westmont College,1300,TRUE
+Whittier College,1987,TRUE
+Adams State University,3314,TRUE
+Arapahoe Community College,12421,TRUE
+Colorado Christian University,5605,TRUE
+Colorado College,2118,TRUE
+Colorado Mesa University,11000,TRUE
+Colorado Mountain College Glenwood Springs,5688,TRUE
+Colorado School of Mines,6209,TRUE
+Colorado State University,33083,TRUE
+Colorado State University-Pueblo,6639,TRUE
+Community College of Denver,8556,TRUE
+Fort Lewis College,3319,TRUE
+Front Range Community College,18880,TRUE
+Johnson & Wales University-Denver,1170,TRUE
+Metropolitan State University of Denver,20304,TRUE
+Morgan Community College,1228,TRUE
+Pikes Peak Community College,13275,TRUE
+Pueblo Community College,6197,TRUE
+Red Rocks Community College,7355,TRUE
+Regis University,10087,TRUE
+Trinidad State Junior College,1663,TRUE
+United States Air Force Academy,4276,TRUE
+University of Colorado Boulder,34595,TRUE
+University of Colorado Colorado Springs,12932,TRUE
+University of Colorado Denver and Anschutz Medical Campus,34595,TRUE
+University of Denver,11434,TRUE
+University of Northern Colorado,12968,TRUE
+Western Colorado University,2814,TRUE
+Albertus Magnus College,1464,TRUE
+Central Connecticut State University,11880,TRUE
+Connecticut College,1817,TRUE
+Eastern Connecticut State University,5282,TRUE
+Fairfield University,5192,TRUE
+Mitchell College,707,TRUE
+Post University,8540,TRUE
+Quinnipiac University,8540,TRUE
+Sacred Heart University,6158,TRUE
+Southern Connecticut State University,10202,TRUE
+Trinity College,2282,TRUE
+Tunxis Community College,3857,TRUE
+United States Coast Guard Academy,1044,TRUE
+University of Bridgeport,5434,TRUE
+University of Connecticut,18847,TRUE
+University of Hartford,6561,TRUE
+University of New Haven,6793,TRUE
+University of New Haven,5216,TRUE
+University of Saint Joseph,2405,TRUE
+Wesleyan University,3213,TRUE
+Western Connecticut State University,5664,TRUE
+Yale University,12974,TRUE
+Delaware State University,4352,TRUE
+Delaware Technical Community College Dover,14195,TRUE
+Delaware Technical Community College Georgetown,,TRUE
+Delaware Technical Community College Stanton,,TRUE
+Goldey-Beacom College,1823,TRUE
+University of Delaware,24120,TRUE
+Wesley College,1561,TRUE
+Wilmington University,21000,TRUE
+AdventHealth University,,TRUE
+American Institute of Beauty,,FALSE
+Barry University,7358,TRUE
+Bethune-Cookman University,4143,TRUE
+Broward College,40754,TRUE
+Chipola College,2092,TRUE
+City College at Gainesville,257,TRUE
+College of Central Florida,10854,TRUE
+Daytona State College,13970,TRUE
+Eastern Florida State College,15769,TRUE
+Eckerd College,2037,TRUE
+Edward Waters College,3443,TRUE
+Embry-Riddle Aeronautical University at Daytona Beach,6338,TRUE
+Flagler College,2689,TRUE
+Florida A&M University,9614,TRUE
+Florida Atlantic University,37452,TRUE
+Florida Career College at Tampa,457,FALSE
+Florida College,555,FALSE
+Florida Gateway College,3292,FALSE
+Florida Gulf Coast University,14965,TRUE
+Florida Institute of Recording Sound and Technology,522,FALSE
+Florida Institute of Technology,8939,TRUE
+Florida International University,56718,TRUE
+Florida Memorial University,1250,TRUE
+Florida National University,,FALSE
+Florida Polytechnic University,1456,TRUE
+Florida SouthWestern State College,15731,TRUE
+Florida Southern College,3055,TRUE
+Florida State College at Jacksonville,45000,TRUE
+Florida State University,33270,TRUE
+Fortis Institute at Port Saint Lucie,350,TRUE
+Gulf Coast State College,1217,TRUE
+Gwinnett Institute,12287,TRUE
+HCI College,,FALSE
+HCI College at Fort Lauderdale,,FALSE
+Hillsborough Community College,45937,TRUE
+Indian River State College,17598,TRUE
+Jacksonville University,4222,TRUE
+Johnson & Wales University-North Miami,1475,TRUE
+Keiser University at Fort Myers,,TRUE
+Keiser University at Melbourne,,TRUE
+Keiser University at Tallahassee,,TRUE
+Keiser University at West Palm Beach,,TRUE
+Lake-Sumter State College,4881,TRUE
+Lynn University,2422,TRUE
+Miami Dade College,56001,TRUE
+New College of Florida,726,TRUE
+North Florida College,14522,TRUE
+Northwest Florida State College,5727,TRUE
+Nova Southeastern University,20793,TRUE
+Palm Beach Atlantic University,3839,FALSE
+Palm Beach State College,46870,TRUE
+Pasco-Hernando State College,11947,TRUE
+Pensacola State College,9655,TRUE
+Polk State College,11414,TRUE
+Rasmussen College at Fort Myers,8146,TRUE
+Rollins College,2133,TRUE
+Saint Leo University,16207,TRUE
+Santa Fe College,14588,TRUE
+Seminole State College of Florida,17550,TRUE
+South Florida State College,2809,TRUE
+Southeastern College at West Palm Beach,540,TRUE
+Southeastern University,7163,TRUE
+St. Johns River State College,10514,FALSE
+St. Petersburg College,28853,TRUE
+St. Thomas University,4538,TRUE
+"State College of Florida, Manatee-Sarasota",22,TRUE
+Stetson University,4252,TRUE
+Strayer University at Fort Lauderdale,,FALSE
+Tallahassee Community College,11782,TRUE
+The College of the Florida Keys,371,TRUE
+University of Central Florida,64318,TRUE
+University of Florida,57807,TRUE
+University of Miami,17003,TRUE
+University of North Florida,16500,TRUE
+University of South Florida,50755,TRUE
+University of South Florida Sarasota-Manatee,2024,TRUE
+"University of South Florida, St. Petersburg",4675,TRUE
+University of Tampa,8697,TRUE
+University of West Florida,13040,TRUE
+Valencia College,44834,TRUE
+Webber International University,626,TRUE
+Abraham Baldwin Agricultural College,3394,TRUE
+Agnes Scott College,921,TRUE
+Albany State University,6371,TRUE
+Atlanta Metropolitan State College,2800,TRUE
+Augusta University,8220,TRUE
+Berry College,2392,TRUE
+Brenau University,2932,TRUE
+Clark Atlanta University,3992,TRUE
+Clayton State University,7003,TRUE
+College of Coastal Georgia,3663,TRUE
+Columbus State University,8452,TRUE
+Covenant College,1068,TRUE
+Dalton State College,,TRUE
+East Georgia State College,3003,TRUE
+Emmanuel College,953,TRUE
+Emory University,7118,TRUE
+Fort Valley State University,2752,TRUE
+Georgia College & State University,6952,TRUE
+Georgia Gwinnett College,12287,TRUE
+Georgia Highlands College,6013,TRUE
+Georgia Institute of Technology,29376,TRUE
+Georgia Military College,8595,TRUE
+Georgia Southern University,26054,TRUE
+Georgia Southwestern State University,3052,TRUE
+Georgia State University,32816,TRUE
+Gordon State College,3986,TRUE
+Kennesaw State University,35846,TRUE
+LaGrange College,1049,TRUE
+Mercer University,8653,TRUE
+Middle Georgia State University,7341,TRUE
+Morehouse College,2238,TRUE
+Oglethorpe University,1250,TRUE
+Piedmont College,2361,TRUE
+Savannah State University,4429,TRUE
+Shorter University,1520,TRUE
+South Georgia State College,2540,TRUE
+University of Georgia,29848,TRUE
+University of North Georgia,18782,TRUE
+University of West Georgia,13520,TRUE
+Valdosta State University,11341,TRUE
+Wesleyan College,3213,TRUE
+Young Harris College,1202,TRUE
+University of Guam,3917,TRUE
+Chaminade University of Honolulu,2389,TRUE
+Hawaii Pacific University,4146,TRUE
+Kapiolani Community College,7095,TRUE
+Leeward Community College,6805,TRUE
+University of Hawaii Maui College,3302,TRUE
+University of Hawaii at Hilo,3539,TRUE
+University of Hawaii at Manoa,17612,TRUE
+University of Hawaii-West Oahu,,TRUE
+Boise State University,22939,TRUE
+Brigham Young University-Idaho,14934,TRUE
+College of Idaho,1077,TRUE
+College of Southern Idaho,,TRUE
+Idaho State University,12643,TRUE
+Lewis-Clark State College,3746,TRUE
+North Idaho College,2131,TRUE
+Northwest Nazarene University,2168,TRUE
+University of Idaho,12072,TRUE
+Augustana College,2647,TRUE
+Aurora University,5833,TRUE
+Benedictine University,5100,TRUE
+Blackburn College,554,TRUE
+Bradley University,5844,TRUE
+Chicago State University,3101,TRUE
+Columbia College Chicago,7312,TRUE
+Concordia University Chicago,5755,TRUE
+DePaul University,22769,TRUE
+Dominican University,3127,TRUE
+Eastern Illinois University,7030,TRUE
+Elmhurst University,3481,TRUE
+Eureka College,614,TRUE
+Governors State University,5185,TRUE
+Greenville University,2565,TRUE
+Illinois College,959,TRUE
+Illinois Institute of Technology,7266,TRUE
+Illinois State University,20784,TRUE
+Illinois Wesleyan University,1649,TRUE
+Kaskaskia College,3107,TRUE
+Knox College,1356,TRUE
+Lake Forest College,1542,TRUE
+Lake Land College,4466,TRUE
+Lewis University,6506,TRUE
+Loyola University Chicago,16673,TRUE
+McNeese State University,7638,TRUE
+Nicholls State University,6327,TRUE
+Northwestern State University of Louisiana,10572,TRUE
+Southeastern Louisiana University,14285,TRUE
+Southern University Law Center,576,TRUE
+Southern University and A&M College,32,TRUE
+Southern University at New Orleans,2535,TRUE
+Tulane University of Louisiana,12384,TRUE
+University of Louisiana Monroe,9290,TRUE
+University of Louisiana at Lafayette,19291,TRUE
+University of New Orleans,2535,TRUE
+Bates College,1787,TRUE
+Bowdoin College,7251,TRUE
+Colby College,1917,TRUE
+Husson University,3648,TRUE
+Maine Maritime Academy,1037,TRUE
+Saint Joseph's College of Maine,2291,TRUE
+Thomas College,1802,TRUE
+University of Maine,9430,TRUE
+University of Maine Farmington,2080,TRUE
+University of Maine at Augusta,4014,TRUE
+University of Maine at Fort Kent,1760,TRUE
+University of Maine at Machias,701,TRUE
+University of Maine at Presque Isle,138,TRUE
+University of New England,13743,TRUE
+University of Southern Maine,7794,TRUE
+College of the Marshall Islands,1032,TRUE
+Bowie State University,6148,TRUE
+Coppin State University,2893,TRUE
+Frostburg State University,5396,TRUE
+Goucher College,2236,TRUE
+Hood College,1161,TRUE
+Johns Hopkins University,25151,TRUE
+Loyola University Maryland,3925,TRUE
+McDaniel College,2816,TRUE
+Morgan State University,7747,TRUE
+Mount St. Mary's University,1653,TRUE
+Notre Dame of Maryland University,2475,TRUE
+Salisbury University,8713,TRUE
+St. Mary's College of Maryland,1598,TRUE
+Stevenson University,3876,TRUE
+Towson University,22705,TRUE
+United States Naval Academy,4495,TRUE
+University of Baltimore,2097,TRUE
+University of Maryland Eastern Shore,3490,TRUE
+"University of Maryland, Baltimore",13662,TRUE
+"University of Maryland, Baltimore County",13662,TRUE
+"University of Maryland, College Park",40521,TRUE
+Washington College,1484,TRUE
+American International College,3283,TRUE
+Amherst College,1836,TRUE
+Anna Maria College,1445,TRUE
+Assumption College,2481,TRUE
+Babson College,3329,TRUE
+Becker College,1892,TRUE
+Bentley University,5543,TRUE
+Boston College,14628,TRUE
+Boston University,33355,TRUE
+Brandeis University,5721,TRUE
+Bridgewater State University,11019,TRUE
+Clark University,3153,TRUE
+College of Our Lady of the Elms,1580,TRUE
+College of the Holy Cross,2855,TRUE
+Curry College,2799,TRUE
+Dean College,1301,TRUE
+Eastern Nazarene College,848,TRUE
+Emerson College,4459,TRUE
+Emmanuel College,953,TRUE
+Endicott College,2949,TRUE
+Fitchburg State University,7075,TRUE
+Framingham State University,5691,TRUE
+Franklin W Olin College of Engineering,380,TRUE
+Gordon College,1963,TRUE
+Hampshire College,1268,TRUE
+Harvard University,31120,TRUE
+Hebrew College,,TRUE
+Lasell University,2055,TRUE
+Lesley University,4732,TRUE
+Massachusetts College of Art and Design,2064,TRUE
+Massachusetts College of Liberal Arts,1345,TRUE
+Massachusetts College of Pharmacy and Health Sciences,7074,TRUE
+Massachusetts Institute of Technology,11466,TRUE
+Massachusetts Maritime Academy,1780,TRUE
+Merrimack College,7058,TRUE
+Nichols College,1634,TRUE
+Pine Manor College,452,TRUE
+Regis College,2196,TRUE
+Salem State University,8702,TRUE
+Simmons University,6283,TRUE
+Smith College,2918,TRUE
+Springfield College,2200,TRUE
+Stonehill College,2498,TRUE
+Suffolk University,7201,TRUE
+Tufts University,11449,TRUE
+University of Massachusetts Amherst,30340,TRUE
+University of Massachusetts Boston,16415,TRUE
+University of Massachusetts Lowell,11258,TRUE
+Wellesley College,2508,TRUE
+Wentworth Institute of Technology,4457,TRUE
+Western New England University,899,TRUE
+Westfield State University,6237,TRUE
+Wheaton College,2900,TRUE
+Williams College,2134,TRUE
+Worcester Polytechnic Institute,6642,TRUE
+Worcester State University,6434,TRUE
+Adrian College,1688,TRUE
+Albion College,1568,TRUE
+Alma College,1426,TRUE
+Alpena Community College,1611,TRUE
+Andrews University,3348,TRUE
+Aquinas College,1716,TRUE
+Bay Mills Community College,1716,TRUE
+Calvin University,3840,TRUE
+Central Michigan University,23335,TRUE
+Concordia University Ann Arbor,1081,TRUE
+Davenport University,6746,TRUE
+Eastern Michigan University,20525,TRUE
+Ferris State University,13798,TRUE
+Finlandia University,456,TRUE
+Grand Rapids Community College,14269,TRUE
+Grand Valley State University,25049,TRUE
+Henry Ford College,12786,TRUE
+Hillsdale College,1556,TRUE
+Hope College,3056,TRUE
+Jackson College,4798,TRUE
+Kalamazoo College,1436,TRUE
+Kettering University,2311,TRUE
+Lake Michigan College,3477,TRUE
+Lake Superior State University,1960,TRUE
+Lawrence Technological University,3069,TRUE
+Michigan State University,50019,TRUE
+Michigan Technological University,7292,TRUE
+Northern Michigan University,7612,TRUE
+Northwestern Michigan College,3954,TRUE
+Northwood University,3353,TRUE
+Oakland University,19333,TRUE
+Olivet College,1224,TRUE
+Saginaw Valley State University,8662,TRUE
+Schoolcraft College,10558,TRUE
+Siena Heights University,2464,TRUE
+Spring Arbor University,3342,TRUE
+University of Detroit Mercy,5113,TRUE
+University of Michigan,6847,TRUE
+University of Michigan-Dearborn,9330,TRUE
+University of Michigan-Flint,7836,TRUE
+Wayne State University,27064,TRUE
+Western Michigan University,22893,TRUE
+Alexandria Technical & Community College,2614,TRUE
+Augsburg University,3562,TRUE
+Bemidji State University,5198,TRUE
+Bethany Lutheran College,651,TRUE
+Bethel University,3797,TRUE
+Carleton College,2078,TRUE
+Century College,8745,TRUE
+College of Saint Benedict,1937,TRUE
+Concordia College at Moorhead,2059,TRUE
+"Concordia University, St. Paul",4972,TRUE
+Crown College,1353,TRUE
+Dakota County Technical College,2478,TRUE
+Gustavus Adolphus College,2181,TRUE
+Hamline University,3734,TRUE
+Hennepin Technical College,5078,TRUE
+Inver Hills Community College,4479,TRUE
+Itasca Community College,1211,TRUE
+Lake Superior College,5059,TRUE
+Macalester College,2136,TRUE
+Martin Luther College,981,TRUE
+Metropolitan State University,8148,TRUE
+Minneapolis Community and Technical College,6951,TRUE
+Minnesota State University Moorhead,4675,TRUE
+"Minnesota State University, Mankato",14712,TRUE
+Minnesota West Community and Technical College,3162,TRUE
+North Central University,10788,TRUE
+Northland Community and Technical College,3416,TRUE
+Ridgewater College,3366,TRUE
+Riverland Community College,3263,TRUE
+Rochester Community and Technical College,5115,TRUE
+Saint John's University,3144,TRUE
+Saint Mary's University of Minnesota,5754,TRUE
+South Central College,2787,TRUE
+Southwest Minnesota State University,2122,TRUE
+St. Catherine University,4724,TRUE
+St. Cloud State University,10914,TRUE
+St. Cloud Technical and Community College,4218,TRUE
+St. Olaf College,3035,TRUE
+St. Paul College,6912,TRUE
+The College of Saint Scholastica,4276,TRUE
+University of Minnesota Crookston,2834,TRUE
+University of Minnesota Duluth,6667,TRUE
+University of Minnesota Morris,1627,TRUE
+University of Minnesota Rochester,472,TRUE
+University of Minnesota Twin Cities,51848,TRUE
+"University of Northwestern, St. Paul",3521,TRUE
+University of St. Thomas,9878,TRUE
+Winona State University,7981,TRUE
+Alcorn State University,3716,TRUE
+Belhaven University,4458,TRUE
+Delta State University,3785,TRUE
+Jackson State University,8558,TRUE
+Millsaps College,859,TRUE
+Mississippi College,5036,TRUE
+Mississippi Delta Community College,2373,TRUE
+Mississippi State University,21883,TRUE
+Mississippi University for Women,2789,TRUE
+Mississippi Valley State University,2385,TRUE
+Northeast Mississippi Community College,3492,TRUE
+Rust College,860,FALSE
+University of Mississippi,24250,TRUE
+University of Mississippi Medical Center,,TRUE
+University of Southern Mississippi,14479,TRUE
+Central Methodist University,2259,TRUE
+College of the Ozarks,1508,TRUE
+Crowder College,4960,FALSE
+Drury University,3512,TRUE
+Evangel University,2112,TRUE
+Fontbonne University,1375,TRUE
+Graceland University at Independence,5466,TRUE
+Harris-Stowe State University,1442,TRUE
+Kansas City Art Institute,663,TRUE
+Lincoln University of Missouri,2619,TRUE
+Lindenwood University,10025,TRUE
+Maryville University Saint Louis,7689,TRUE
+Missouri Baptist University,5488,TRUE
+Missouri Southern State University,6174,TRUE
+Missouri State University,26182,TRUE
+Missouri University of Science and Technology,7969,TRUE
+Missouri Western State University,5533,TRUE
+Northwest Missouri State University,5474,TRUE
+Ozarks Technical Community College,12692,TRUE
+Rockhurst University,3043,TRUE
+Saint Louis University,14581,TRUE
+Southeast Missouri State University,11486,TRUE
+Southwest Baptist University,3592,TRUE
+St. Louis College of Pharmacy,1309,TRUE
+St. Louis Community College,18835,TRUE
+State Fair Community College,4742,TRUE
+Stephens College,862,TRUE
+Truman State University,6272,TRUE
+University of Central Missouri,29843,FALSE
+University of Missouri,16375,TRUE
+University of Missouri-Kansas City,16441,TRUE
+Washington University in St. Louis,7540,TRUE
+Webster University,12736,TRUE
+Westminster College,1263,TRUE
+William Jewell College,933,TRUE
+William Woods University,2284,TRUE
+Carroll College,1354,TRUE
+Montana State University,16703,TRUE
+Montana State University Billings,4401,TRUE
+Montana State University Northern,1105,TRUE
+Montana Technological University,2700,TRUE
+Salish Kootenai College,809,TRUE
+Stone Child College,554,TRUE
+University of Montana,12878,TRUE
+University of Montana Western,1501,TRUE
+Chadron State College,2737,TRUE
+"Concordia University, Nebraska",1209,TRUE
+Creighton University,8654,TRUE
+Doane University,,TRUE
+Hastings College,1202,TRUE
+Midland University,1793,TRUE
+Nebraska Wesleyan University,2064,TRUE
+Peru State College,2349,TRUE
+University of Nebraska Medical Center,3908,TRUE
+University of Nebraska at Kearney,6644,TRUE
+University of Nebraska at Omaha,12245,TRUE
+University of Nebraska-Lincoln,26079,TRUE
+Wayne State College,27064,TRUE
+College of Southern Nevada,33914,TRUE
+Great Basin College,3244,TRUE
+Nevada State College,4212,TRUE
+Truckee Meadows Community College,10720,TRUE
+"University of Nevada, Las Vegas",30471,TRUE
+"University of Nevada, Reno",21657,TRUE
+Western Nevada College,3642,TRUE
+Colby-Sawyer College,995,TRUE
+Dartmouth College,6509,TRUE
+Franklin Pierce University,2303,TRUE
+Granite State College,1729,TRUE
+Keene State College,3866,TRUE
+New England College,2832,TRUE
+Plymouth State University,5046,TRUE
+Rivier University,2431,TRUE
+Saint Anselm College,1964,TRUE
+Southern New Hampshire University,90955,TRUE
+University of New Hampshire,12202,TRUE
+Bloomfield College,1842,TRUE
+Caldwell University,2206,TRUE
+Centenary University,,TRUE
+College of Saint Elizabeth,1141,TRUE
+Drew University,2117,TRUE
+Fairleigh Dickinson University,3512,TRUE
+Fairleigh Dickinson University Florham,3512,TRUE
+Felician University,1996,TRUE
+Georgian Court University,2390,TRUE
+Kean University,14226,TRUE
+Monmouth University,6340,TRUE
+Montclair State University,21013,TRUE
+New Jersey City University,6508,TRUE
+New Jersey Institute of Technology,11500,TRUE
+Princeton University,5422,TRUE
+Ramapo College of New Jersey,6120,TRUE
+Rider University,5073,TRUE
+Rowan University,18400,TRUE
+Rutgers University,49577,TRUE
+Saint Peter's University,3524,TRUE
+Seton Hall University,9801,TRUE
+Stevens Institute of Technology,6916,TRUE
+Stockton University,8728,TRUE
+The College of New Jersey,6728,TRUE
+Thomas Edison State University,16233,TRUE
+William Paterson University,10743,TRUE
+Eastern New Mexico University,6027,TRUE
+Institute of American Indian Arts,570,TRUE
+Navajo Technical University,1875,TRUE
+New Mexico Highlands University,3098,TRUE
+New Mexico Institute of Mining and Technology,1321,TRUE
+New Mexico Military Institute,857,TRUE
+New Mexico State University,14432,TRUE
+Northern New Mexico College,948,TRUE
+San Juan College,7030,TRUE
+Santa Fe Community College,4581,TRUE
+University of New Mexico,26221,TRUE
+Western New Mexico University,3088,TRUE
+Adelphi University,7978,TRUE
+Albany Medical College,840,TRUE
+Alfred University,2354,TRUE
+Bard College,2293,TRUE
+Barnard College,2544,TRUE
+Bryant & Stratton College,439,TRUE
+CUNY Baruch College,18289,TRUE
+CUNY Borough of Manhattan Community College,26932,TRUE
+CUNY Bronx Community College,10935,TRUE
+CUNY Brooklyn College,14970,TRUE
+CUNY City College of New York,16001,TRUE
+CUNY College of Staten Island,13594,TRUE
+CUNY Guttman Community College,1066,TRUE
+CUNY Hostos Community College,7211,TRUE
+CUNY Hunter College,23005,TRUE
+CUNY John Jay College of Criminal Justice,14834,TRUE
+CUNY Kingsborough Community College,15034,TRUE
+CUNY LaGuardia Community College,19373,TRUE
+CUNY Lehman College,14130,TRUE
+CUNY Medgar Evers College,6652,TRUE
+CUNY New York City College of Technology,17279,TRUE
+CUNY Queens College,19866,TRUE
+CUNY Queensborough Community College,15400,TRUE
+CUNY School of Law,488,TRUE
+CUNY York College,8533,TRUE
+Canisius College,3464,TRUE
+Cazenovia College,893,TRUE
+Clarkson University,4233,TRUE
+Clinton Community College,1547,TRUE
+Colgate University,2881,TRUE
+College of Mount Saint Vincent,1910,TRUE
+Columbia University,30404,TRUE
+Columbia-Greene Community College,1620,TRUE
+Concordia College New York,1466,TRUE
+Cornell University,23016,TRUE
+D'Youville College,3045,TRUE
+Daemen College,2635,TRUE
+Dominican College,1575,TRUE
+Dutchess Community College,9061,TRUE
+Elmira College,1012,TRUE
+Erie Community College,11135,TRUE
+Farmingdale State College,9574,TRUE
+Fashion Institute of Technology,8846,TRUE
+Finger Lakes Community College,6356,TRUE
+Fordham University,16037,TRUE
+Fulton-Montgomery Community College,2403,TRUE
+Genesee Community College,5906,TRUE
+Hamilton College,1901,TRUE
+Hartwick College,1201,TRUE
+Herkimer County Community College,2632,TRUE
+Hilbert College,792,TRUE
+Hobart William Smith Colleges,2244,TRUE
+Hofstra University,11131,TRUE
+Houghton College,1043,TRUE
+McKendree University - Loyola University New Orleans,1450,TRUE
+Midwestern University at Downers Grove,2971,TRUE
+Millikin University,2040,TRUE
+Monmouth College,1030,TRUE
+North Central College,2965,TRUE
+North Park University,2937,TRUE
+Northeastern Illinois University,8984,TRUE
+Northern Illinois University,18045,TRUE
+Northwestern University,8327,TRUE
+Olivet Nazarene University,5002,TRUE
+Parkland College,5147,TRUE
+Principia College,455,TRUE
+Quincy University,1098,TRUE
+Rockford University,1262,TRUE
+Saint Xavier University,3715,TRUE
+School of the Art Institute of Chicago,3648,TRUE
+Southeastern Illinois College,1655,TRUE
+Southern Illinois University Carbondale,14554,TRUE
+Southern Illinois University Edwardsville,13796,TRUE
+Southwestern Illinois College,8859,TRUE
+University of Chicago,16227,TRUE
+University of Illinois Springfield,4956,TRUE
+University of Illinois Urbana-Champaign,47826,TRUE
+University of Illinois at Chicago,29120,TRUE
+Western Illinois University,9469,TRUE
+Wheaton College,1688,TRUE
+Anderson University,2881,TRUE
+Ball State University,22513,TRUE
+Butler University,4685,TRUE
+DePauw University,2158,TRUE
+Earlham College,1128,TRUE
+Franklin College,1034,TRUE
+Goshen College,950,TRUE
+Hanover College,1089,TRUE
+Indiana State University,13771,TRUE
+Indiana University Bloomington,31878,TRUE
+Indiana University East,3490,TRUE
+Indiana University Kokomo,3029,TRUE
+Indiana University Northwest,4055,TRUE
+Indiana University South Bend,5385,TRUE
+Indiana University Southeast,5144,TRUE
+Indiana University-Purdue University Indianapolis,28294,TRUE
+Manchester University,1525,TRUE
+Marian University,3429,TRUE
+Oakland City University,1303,TRUE
+Purdue University,31006,TRUE
+Purdue University - Purdue Polytechnic Anderson,5505,TRUE
+Purdue Polytechnic Columbus,,TRUE
+Purdue Polytechnic Indianapolis,,TRUE
+Purdue Polytechnic Kokomo,,TRUE
+Purdue Polytechnic Lafayette,,TRUE
+Purdue Polytechnic New Albany,,TRUE
+Purdue Polytechnic Richmond,,TRUE
+Purdue University - Purdue Polytechnic South Bend,,TRUE
+Purdue University - Purdue Polytechnic Vincennes,,TRUE
+Purdue University Fort Wayne,,TRUE
+Purdue University Northwest,,TRUE
+Rose-Hulman Institute of Technology,2245,TRUE
+Saint Mary's College,3908,TRUE
+Taylor University,2145,TRUE
+Trine University,4312,TRUE
+University of Evansville,2676,TRUE
+University of Indianapolis,5972,TRUE
+University of Notre Dame,12467,TRUE
+University of Southern Indiana,11033,TRUE
+Valparaiso University,4079,TRUE
+Vincennes University,18914,TRUE
+Wabash College,864,TRUE
+Buena Vista University,1982,TRUE
+Central College,1237,TRUE
+Clarke University,662,TRUE
+Coe College,1394,TRUE
+Cornell College,1009,TRUE
+Dordt University,1534,TRUE
+Drake University,4904,TRUE
+Graceland University,2262,TRUE
+Grinnell College,1712,TRUE
+Iowa State University,36321,TRUE
+Iowa Wesleyan University,629,TRUE
+Loras College,1467,TRUE
+Luther College,2053,TRUE
+Morningside College,2698,TRUE
+Northwestern College,21421,TRUE
+Saint Ambrose University,3045,TRUE
+Simpson College,296,TRUE
+University of Dubuque,2366,TRUE
+University of Iowa,32948,TRUE
+University of Northern Iowa,11907,TRUE
+Upper Iowa University,4943,TRUE
+Wartburg College,1529,TRUE
+William Penn University,1351,TRUE
+Allen County Community College,2379,TRUE
+Baker University,1135,TRUE
+Benedictine College,2166,TRUE
+Bethel College,503,TRUE
+Butler Community College,8828,TRUE
+Central Christian College,239,TRUE
+Dodge City Community College,1548,TRUE
+Emporia State University,3405,TRUE
+Fort Hays State University,15100,TRUE
+Haskell Indian Nations University,806,TRUE
+Hesston College,442,TRUE
+Hutchinson Community College,5854,TRUE
+Johnson County Community College,18638,TRUE
+Kansas State University,23779,TRUE
+Kansas Wesleyan University,791,TRUE
+Labette Community College,2005,TRUE
+Newman University,3378,TRUE
+Pittsburg State University,6907,TRUE
+Southwestern College,608,TRUE
+Sterling College,154,TRUE
+University of Kansas,28447,TRUE
+Washburn University,6691,TRUE
+Wichita State University,15075,TRUE
+Alice Lloyd College,574,TRUE
+Asbury University,1714,TRUE
+Ashland Community and Technical College,2542,TRUE
+Bellarmine University,2544,TRUE
+Berea College,1688,TRUE
+Big Sandy Community and Technical College,4347,TRUE
+Bluegrass Community and Technical College,9478,TRUE
+Campbellsville University,7207,TRUE
+Centre College,1450,TRUE
+Eastern Kentucky University,15815,TRUE
+Elizabethtown Community and Technical College,6868,TRUE
+Gateway Community and Technical College,9166,TRUE
+Georgetown College,19005,TRUE
+Hazard Community and Technical College,3186,TRUE
+Henderson Community College,1586,TRUE
+Hopkinsville Community College,2640,TRUE
+Jefferson Community and Technical College,12000,TRUE
+Kentucky State University,1174,TRUE
+Kentucky Wesleyan College,798,TRUE
+Lexington Theological Seminary,,TRUE
+Lindsey Wilson College,2565,TRUE
+Madisonville Community College,3345,TRUE
+Maysville Community and Technical College,4189,TRUE
+Midway University,482,TRUE
+Morehead State University,9537,TRUE
+Murray State University,8215,TRUE
+Northern Kentucky University,14456,TRUE
+Owensboro Community and Technical College,3787,TRUE
+Somerset Community College,5905,TRUE
+Southcentral Kentucky Community and Technical College,4289,TRUE
+Southeast Kentucky Community and Technical College,3315,TRUE
+Spalding University,2071,TRUE
+Thomas More University,2254,TRUE
+Transylvania University,968,TRUE
+Union College,2189,TRUE
+University of Kentucky,22236,TRUE
+University of Louisville,15547,TRUE
+University of Pikeville,2336,TRUE
+University of the Cumberlands,11886,TRUE
+West Kentucky Community and Technical College,6038,TRUE
+Western Kentucky University,20267,TRUE
+Centenary College of Louisiana,588,TRUE
+Grambling State University,5191,TRUE
+Louisiana College,1196,TRUE
+Louisiana State University,29292,TRUE
+Louisiana State University Alexandria,3378,TRUE
+"Louisiana State University Health Sciences Center, New Orleans",2777,TRUE
+"Louisiana State University Health Sciences Center, Shreveport",542,TRUE
+"Louisiana State University, Shreveport",5797,TRUE
+Louisiana Tech University,12873,TRUE
+Hudson Valley Community College,1043,TRUE
+Iona College,3792,TRUE
+Ithaca College,6516,TRUE
+Jamestown Community College,2484,TRUE
+Keuka College,1953,TRUE
+Le Moyne College,3431,TRUE
+Long Island University,6982,TRUE
+Manhattan College,4242,TRUE
+Manhattanville College,3841,TRUE
+Marist College,5699,TRUE
+Marymount Manhattan College,2150,TRUE
+Medaille College,2198,TRUE
+Mercy College,9506,TRUE
+Mohawk Valley Community College,6506,TRUE
+Molloy College,4980,TRUE
+Monroe College,6310,TRUE
+Monroe Community College,12907,TRUE
+Mount Saint Mary College,2365,TRUE
+Nassau Community College,19059,TRUE
+Nazareth College,19059,TRUE
+Loyola University New Orleans,3188,TRUE
+Sarah Lawrence College,1696,TRUE
+Schenectady County Community College,6588,TRUE
+Siena College,3226,TRUE
+Skidmore College,2684,TRUE
+St. Bonaventure University,2084,TRUE
+St. Francis College,2362,TRUE
+St. John Fisher College,3776,TRUE
+St. John's University,21340,TRUE
+St. Joseph's College Long Island,3966,TRUE
+St. Joseph's College New York,,TRUE
+St. Lawrence University,2493,TRUE
+St. Thomas Aquinas College,1915,TRUE
+Stony Brook University,25989,TRUE
+Suffolk County Community College,26756,TRUE
+Syracuse University,22484,TRUE
+The College of Saint Rose,3929,TRUE
+"The Graduate Center, CUNY",,TRUE
+The New School,10389,TRUE
+Tompkins Cortland Community College,2632,TRUE
+Touro College,12397,TRUE
+Trocaire College,1399,TRUE
+Ulster County Community College,3560,TRUE
+Union College,868,TRUE
+United States Merchant Marine Academy,975,TRUE
+United States Military Academy West Point,4389,TRUE
+University of Rochester,11648,TRUE
+Upstate Medical University,619,TRUE
+Utica College,5258,TRUE
+Vassar College,2353,TRUE
+Wagner College,2271,TRUE
+Wells College,488,TRUE
+Yeshiva University,6330,TRUE
+Appalachian State University,18811,TRUE
+Barton College,960,TRUE
+Belmont Abbey College,1555,TRUE
+Brevard College,677,TRUE
+Campbell University,6604,TRUE
+Carolinas College of Health Sciences,444,TRUE
+Catawba College,1336,TRUE
+Chowan University,1503,TRUE
+Davidson College,1810,TRUE
+Duke University,16130,TRUE
+Durham Technical Community College,5415,TRUE
+East Carolina University,29131,TRUE
+Elizabeth City State University,1411,TRUE
+Elon University,6791,TRUE
+Fayetteville State University,6226,TRUE
+Gardner-Webb University,3818,TRUE
+Greensboro College,1001,TRUE
+Guilford College,1680,TRUE
+High Point University,5000,TRUE
+Johnson & Wales University-Charlotte,1892,TRUE
+Johnson C Smith University,1483,TRUE
+Lees-McRae College,921,TRUE
+Lenoir-Rhyne University,2557,TRUE
+Livingstone College,1150,TRUE
+Mars Hill University,1277,TRUE
+Meredith College,1197,TRUE
+Methodist University,2259,TRUE
+Montreat College,917,TRUE
+North Carolina A&T State University,12142,TRUE
+North Carolina Central University,8097,TRUE
+North Carolina State University,34432,TRUE
+North Carolina Wesleyan College,2093,TRUE
+Pfeiffer University,1306,TRUE
+Queens University of Charlotte,2507,TRUE
+Saint Augustine's University,974,TRUE
+Salem College,594,TRUE
+Shaw University,1660,TRUE
+University of Mount Olive,3451,TRUE
+New York Chiropractic College,926,TRUE
+New York Institute of Technology,7403,TRUE
+New York Medical College,1498,TRUE
+New York University,51123,TRUE
+Niagara County Community College,5439,TRUE
+Niagara University,3949,TRUE
+Nyack College,2455,TRUE
+Onondaga Community College,10659,TRUE
+Orange County Community College,6601,TRUE
+Pace University,12986,TRUE
+Pratt Institute,5035,TRUE
+Rensselaer Polytechnic Institute,7592,TRUE
+Roberts Wesleyan College,1740,TRUE
+Rochester Institute of Technology,13313,TRUE
+Rockland Community College,6950,TRUE
+Russell Sage College,644,TRUE
+SUNY Albany,14957,TRUE
+SUNY Alfred State College of Technology,6683,TRUE
+SUNY Binghamton,14165,TRUE
+SUNY Brockport,8313,TRUE
+SUNY Broome Community College,5624,TRUE
+SUNY Buffalo State,9516,TRUE
+SUNY Canton,1966,TRUE
+SUNY Cobleskill,2287,TRUE
+SUNY College at Potsdam,3587,TRUE
+SUNY College of Environmental Science and Forestry,2209,TRUE
+SUNY College of Optometry,413,TRUE
+SUNY Corning Community College,3834,TRUE
+SUNY Cortland,6913,TRUE
+SUNY Delhi,3511,TRUE
+SUNY Downstate Health Sciences University,1567,TRUE
+SUNY Empire State College,10977,TRUE
+SUNY Geneseo,5652,TRUE
+SUNY Maritime College,1794,TRUE
+SUNY Morrisville,3063,TRUE
+SUNY New Paltz,7608,TRUE
+SUNY Old Westbury,4910,TRUE
+SUNY Oneonta,6358,TRUE
+SUNY Oswego,6920,TRUE
+SUNY Plattsburgh,5719,TRUE
+SUNY Polytechnic Institute,2912,TRUE
+SUNY Purchase College,4167,TRUE
+SUNY University at Buffalo,30183,TRUE
+SUNY Westchester Community College,12571,TRUE
+SUNY at Fredonia,4630,TRUE
+University of North Carolina Asheville,3600,TRUE
+University of North Carolina School of the Arts,1144,TRUE
+University of North Carolina Wilmington,16487,TRUE
+University of North Carolina at Chapel Hill,29911,TRUE
+University of North Carolina at Charlotte,29317,TRUE
+University of North Carolina at Greensboro,19922,TRUE
+University of North Carolina at Pembroke,6252,TRUE
+Wake Forest University,8116,TRUE
+Wake Technical Community College,22494,TRUE
+Warren Wilson College,677,TRUE
+Western Carolina University,11034,TRUE
+William Peace University,930,TRUE
+Wingate University,3620,TRUE
+Winston-Salem State University,5098,TRUE
+Bismarck State College,3756,TRUE
+Dakota College at Bottineau,909,TRUE
+Dickinson State University,1425,TRUE
+Lake Region State College,1972,TRUE
+Mayville State University,1140,TRUE
+Minot State University,3216,TRUE
+North Dakota State College,14358,TRUE
+North Dakota State College of Science,2985,TRUE
+Nueta Hidatsa Sahnish College,228,TRUE
+Sitting Bull College,317,TRUE
+University of Mary,3396,TRUE
+University of North Dakota,14406,TRUE
+Valley City State University,1522,TRUE
+Williston State College,1098,TRUE
+Northern Marianas College,1216,TRUE
+Air Force Institute of Technology-Graduate School of Engineering & Management,898,TRUE
+Ashland University,6471,TRUE
+Baldwin Wallace University,3791,TRUE
+Bluffton University,815,TRUE
+Bowling Green State University,17357,TRUE
+Bowling Green State University Firelands,1970,TRUE
+Capital University,3384,TRUE
+Case Western Reserve University,11824,TRUE
+Cedarville University,3886,TRUE
+Central State University,1784,TRUE
+Clark State Community College,5783,TRUE
+Cleveland State University,16371,TRUE
+Columbus College of Art and Design,1075,TRUE
+Cuyahoga Community College District,23900,TRUE
+Defiance College,614,TRUE
+Denison University,2341,TRUE
+Franciscan University of Steubenville,2929,TRUE
+Heidelberg University,1201,TRUE
+Hiram College,1220,TRUE
+John Carroll University,3517,TRUE
+Kent State University,28972,TRUE
+Kent State University Geauga Campus,2249,TRUE
+Kent State University at Ashtabula,1974,TRUE
+Kent State University at East Liverpool,1175,TRUE
+Kent State University at Salem,1695,TRUE
+Kent State University at Stark,5010,TRUE
+Kent State University at Trumbull,2278,TRUE
+Kent State University at Tuscarawas,2131,TRUE
+Kenyon College,1677,TRUE
+Lake Erie College,1176,TRUE
+Lorain County Community College,11042,TRUE
+Malone University,1705,TRUE
+Marietta College,1145,TRUE
+Mount Saint Joseph University,2010,TRUE
+Muskingum University,2369,TRUE
+North Central State College,3050,TRUE
+Northeast Ohio Medical University,930,TRUE
+Notre Dame College,1901,TRUE
+Oberlin College,2853,TRUE
+Ohio Dominican University,1714,TRUE
+Ohio Northern University,3088,TRUE
+Ohio State University,59837,TRUE
+Ohio State University at Mansfield,1061,TRUE
+Ohio State University at Newark,2623,TRUE
+Ohio State University-Lima Campus,1018,TRUE
+Ohio State University-Marion,1198,TRUE
+Ohio University,29369,TRUE
+Ohio University-Chillicothe,1691,TRUE
+Ohio University-Eastern,611,TRUE
+Ohio University-Lancaster,1615,TRUE
+Ohio University-Southern,1387,TRUE
+Ohio University-Zanesville,1204,TRUE
+Ohio Wesleyan University,1560,TRUE
+Otterbein University,2936,TRUE
+Shawnee State University,3582,TRUE
+Sinclair Community College,18448,TRUE
+The College of Wooster,1980,TRUE
+The University of Findlay,4888,TRUE
+Tiffin University,3149,TRUE
+University of Akron,20169,TRUE
+University of Cincinnati,37155,TRUE
+University of Cincinnati-Blue Ash College,4779,TRUE
+University of Dayton,10882,TRUE
+University of Mount Union,2257,TRUE
+University of Toledo,20515,TRUE
+Ursuline College,1123,TRUE
+Walsh University,2759,TRUE
+Wilmington College,1169,TRUE
+Wittenberg University,1884,TRUE
+Wright State University,15957,TRUE
+Wright State University-Lake Campus,1037,TRUE
+Xavier University,6786,TRUE
+Youngstown State University,12521,TRUE
+Cameron University,4524,TRUE
+East Central University,3719,TRUE
+Langston University,2219,TRUE
+Northeastern State University,7909,TRUE
+Northern Oklahoma College,4276,TRUE
+Northwestern Oklahoma State University,2097,TRUE
+Oklahoma Baptist University,2093,TRUE
+Oklahoma Christian University,2458,TRUE
+Oklahoma City University,2845,TRUE
+Oklahoma Panhandle State University,1138,TRUE
+Oklahoma State University,25295,TRUE
+Oklahoma State University Center for Health Sciences,971,TRUE
+Oklahoma State University Institute of Technology,2496,TRUE
+Oklahoma State University-Oklahoma City,5839,TRUE
+Oral Roberts University,3919,TRUE
+Rogers State University,3728,TRUE
+Southeastern Oklahoma State University,4006,TRUE
+Southern Nazarene University,2165,TRUE
+Southwestern Oklahoma State University,5448,TRUE
+University of Central Oklahoma,15979,TRUE
+University of Oklahoma,28527,TRUE
+University of Science and Arts of Oklahoma,882,TRUE
+University of Tulsa,4433,TRUE
+Eastern Oregon University,3016,TRUE
+George Fox University,4076,TRUE
+Lane Community College,7637,TRUE
+Lewis & Clark College,3339,TRUE
+Linfield University,1535,TRUE
+Linfield University-School of Nursing,344,TRUE
+Oregon Health & Science University,2895,TRUE
+Oregon Institute of Technology,5486,TRUE
+Oregon State University,30896,TRUE
+Oregon State University-Cascades,1204,TRUE
+Pacific University,3893,TRUE
+Portland State University,26693,TRUE
+Reed College,1470,TRUE
+Southern Oregon University,6191,TRUE
+University of Oregon,22887,TRUE
+University of Portland,4396,TRUE
+Western Oregon University,5336,TRUE
+Willamette University,2498,TRUE
+Albright College,2036,TRUE
+Allegheny College,1802,TRUE
+Alvernia University,2838,TRUE
+Arcadia University,3811,TRUE
+Bloomsburg University of Pennsylvania,9260,TRUE
+Bryn Athyn College,335,TRUE
+Bryn Mawr College,1640,TRUE
+Bucknell University,3678,TRUE
+Cabrini University,2305,TRUE
+Cairn University,1060,TRUE
+California University of Pennsylvania,7788,TRUE
+Carnegie Mellon University,13869,TRUE
+Cedar Crest College,1664,TRUE
+Chatham University,2269,TRUE
+Chestnut Hill College,1846,TRUE
+Cheyney University of Pennsylvania,755,TRUE
+Clarion University of Pennsylvania,5225,TRUE
+Clarks Summit University,741,TRUE
+Community College of Allegheny County,16147,TRUE
+DeSales University,3315,TRUE
+Delaware Valley University,2422,TRUE
+Dickinson College,2382,TRUE
+Drexel University,24190,TRUE
+Duquesne University,9190,TRUE
+East Stroudsburg University,6742,TRUE
+Eastern University,3291,TRUE
+Edinboro University,5574,TRUE
+Elizabethtown College,1735,TRUE
+Franklin and Marshall College,2283,TRUE
+Gannon University,4149,TRUE
+Geneva College,1598,TRUE
+Gettysburg College,2411,TRUE
+Grove City College,2373,TRUE
+Gwynedd Mercy University,2808,TRUE
+Haverford College,1296,TRUE
+Holy Family University,3081,TRUE
+Immaculata University,2481,TRUE
+Indiana University of Pennsylvania,12431,TRUE
+Juniata College,1495,TRUE
+Keystone College,1523,TRUE
+King's College,2469,TRUE
+Kutztown University,8329,TRUE
+La Roche University,1535,TRUE
+La Salle University,5197,TRUE
+Lafayette College,2594,TRUE
+Lancaster Bible College,2064,TRUE
+Lebanon Valley College,1910,TRUE
+Lehigh University,7017,TRUE
+Lincoln University,657,TRUE
+Lock Haven University,3827,TRUE
+Lycoming College,1217,TRUE
+Mansfield University of Pennsylvania,1882,TRUE
+Marywood University,2930,TRUE
+Mercyhurst University,2759,TRUE
+Messiah University,3331,TRUE
+Millersville University of Pennsylvania,7720,TRUE
+Misericordia University,2708,TRUE
+Moravian College,2446,TRUE
+Mount Aloysius College,1740,TRUE
+Muhlenberg College,2367,TRUE
+Neumann University,2367,TRUE
+Penn State University,98783,TRUE
+Penn State University Abington,3893,TRUE
+Penn State University Altoona,3482,TRUE
+Penn State University Beaver,655,TRUE
+Penn State University Behrend,4502,TRUE
+Penn State University Berks,2719,TRUE
+Penn State University Brandywine,1438,TRUE
+Penn State University College of Medicine,929,TRUE
+Penn State University Dickinson Law,194,TRUE
+Penn State University DuBois,585,TRUE
+Penn State University Fayette,652,TRUE
+Penn State University Great Valley,387,TRUE
+Penn State University Greater Allegheny,497,TRUE
+Penn State University Harrisburg,5077,TRUE
+Penn State University Hazleton,755,TRUE
+Penn State University Lehigh Valley,919,TRUE
+Penn State University Mont Alto,917,TRUE
+Penn State University New Kensington,595,TRUE
+Penn State University Schuylkill,732,TRUE
+Penn State University Scranton,1029,TRUE
+Penn State University Shenango,490,TRUE
+Penn State University Wilkes-Barre,467,TRUE
+Penn State University York,983,TRUE
+Pennsylvania College of Technology,5457,TRUE
+Point Park University,4224,TRUE
+Robert Morris University,5076,TRUE
+Rosemont College,1008,TRUE
+Saint Francis University,2680,TRUE
+Saint Joseph's University,8085,TRUE
+Saint Vincent College,1865,TRUE
+Seton Hill University,2470,TRUE
+Shippensburg University of Pennsylvania,6570,TRUE
+Slippery Rock University of Pennsylvania,8866,TRUE
+Susquehanna University,2349,TRUE
+Swarthmore College,1577,TRUE
+Temple University,39937,TRUE
+Thiel College,766,TRUE
+Thomas Jefferson University,4028,TRUE
+University of Pennsylvania,25367,TRUE
+University of Pittsburgh,28642,TRUE
+University of Pittsburgh Johnstown,2784,TRUE
+University of Pittsburgh at Bradford,1336,TRUE
+University of Pittsburgh at Greensburg,1523,TRUE
+University of Scranton,5373,TRUE
+University of Valley Forge,763,TRUE
+University of the Sciences,2359,TRUE
+Ursinus College,1507,TRUE
+Villanova University,10967,TRUE
+Washington & Jefferson College,1412,TRUE
+Waynesburg University,1736,TRUE
+West Chester University,17306,TRUE
+Westminster College,767,TRUE
+Widener University,6518,TRUE
+Wilkes University,5545,TRUE
+Wilson College,1216,TRUE
+York College of Pennsylvania,4415,TRUE
+Colegio Universitario de San Juan,1480,TRUE
+Conservatory of Music of Puerto Rico,466,TRUE
+Escuela de Artes Plasticas y Diseno de Puerto Rico,497,TRUE
+University of Puerto Rico at Aguadilla,4219,TRUE
+University of Puerto Rico at Arecibo,3799,TRUE
+University of Puerto Rico at Bayamon,4531,TRUE
+University of Puerto Rico at Carolina,3792,TRUE
+University of Puerto Rico at Cayey,3496,TRUE
+University of Puerto Rico at Humacao,3723,TRUE
+University of Puerto Rico at Mayaguez,13481,TRUE
+University of Puerto Rico at Ponce,3630,TRUE
+University of Puerto Rico at Rio Piedras,15098,TRUE
+University of Puerto Rico at Utuado,1750,TRUE
+"University of Puerto Rico, Medical Sciences",2273,TRUE
+Brown University,10095,TRUE
+Bryant University,3751,TRUE
+Johnson & Wales University,8563,TRUE
+Providence College,4645,TRUE
+Rhode Island College,8171,TRUE
+Rhode Island School of Design,2440,TRUE
+Roger Williams University,5024,TRUE
+Salve Regina University,2823,TRUE
+University of Rhode Island,18089,TRUE
+Anderson University,1877,TRUE
+Benedict College,2090,TRUE
+Charleston Southern University,3492,TRUE
+Claflin University,2129,TRUE
+Clemson University,24387,TRUE
+Coastal Carolina University,10663,TRUE
+Coker University,1109,TRUE
+College of Charleston,10863,TRUE
+Converse College,1478,TRUE
+Erskine College,694,TRUE
+Francis Marion University,3786,TRUE
+Furman University,2949,TRUE
+Greenville Technical College,11745,TRUE
+Lander University,2849,TRUE
+Limestone College,2661,TRUE
+Medical University of South Carolina,2985,TRUE
+Newberry College,1181,TRUE
+North Greenville University,2565,TRUE
+Presbyterian College,1280,TRUE
+South Carolina State University,2942,TRUE
+Southern Wesleyan University,1688,TRUE
+The Citadel,2923,TRUE
+University of South Carolina,34731,TRUE
+University of South Carolina Aiken,3506,TRUE
+University of South Carolina Beaufort,2077,TRUE
+University of South Carolina Upstate,5990,TRUE
+Winthrop University,6073,TRUE
+Wofford College,1678,TRUE
+Augustana University,2080,TRUE
+Black Hills State University,4178,TRUE
+Dakota State University,3307,TRUE
+Mount Marty College,1048,TRUE
+Northern State University,3611,TRUE
+Oglala Lakota College,1246,TRUE
+Sinte Gleska University,581,TRUE
+South Dakota School of Mines and Technology,2778,TRUE
+South Dakota State University,12516,TRUE
+University of Sioux Falls,1453,TRUE
+University of South Dakota,10261,TRUE
+Austin Peay State University,10463,TRUE
+Belmont University,8012,TRUE
+Bethel University,3797,TRUE
+Carson-Newman University,2514,TRUE
+Chattanooga State Community College,8152,TRUE
+Christian Brothers University,2157,TRUE
+Cleveland State Community College,3005,TRUE
+Columbia State Community College,5938,TRUE
+Cumberland University,2314,TRUE
+Dyersburg State Community College,2843,TRUE
+East Tennessee State University,14353,TRUE
+Jackson State Community College,4746,TRUE
+King University,2162,TRUE
+Lane College,1420,TRUE
+LeMoyne-Owen College,863,TRUE
+Lee University,5370,TRUE
+Lincoln Memorial University,4770,TRUE
+Lipscomb University,4642,TRUE
+Maryville College,1181,TRUE
+Middle Tennessee State University,21913,TRUE
+Milligan University,1171,TRUE
+Motlow State Community College,6594,TRUE
+Nashville State Community College,8197,TRUE
+Northeast State Community College,6088,TRUE
+Pellissippi State Community College,11168,TRUE
+Rhodes College,2010,TRUE
+Roane State Community College,5626,TRUE
+Southern Adventist University,3035,TRUE
+Southwest Tennessee Community College,9099,TRUE
+Tennessee College of Applied Technology-Athens,386,TRUE
+Tennessee College of Applied Technology-Covington,318,TRUE
+Tennessee College of Applied Technology-Crossville,335,TRUE
+Tennessee College of Applied Technology-Crump,403,TRUE
+Tennessee College of Applied Technology-Dickson,582,TRUE
+Tennessee College of Applied Technology-Elizabethton,458,TRUE
+Tennessee College of Applied Technology-Harriman,281,TRUE
+Tennessee College of Applied Technology-Hartsville,712,TRUE
+Tennessee College of Applied Technology-Hohenwald,577,TRUE
+Tennessee College of Applied Technology-Jacksboro,256,TRUE
+Tennessee College of Applied Technology-Jackson,547,TRUE
+Tennessee College of Applied Technology-Knoxville,1137,TRUE
+Tennessee College of Applied Technology-Livingston,1075,TRUE
+Tennessee College of Applied Technology-McKenzie,176,TRUE
+Tennessee College of Applied Technology-McMinnville,258,TRUE
+Tennessee College of Applied Technology-Memphis,843,TRUE
+Tennessee College of Applied Technology-Morristown,672,TRUE
+Tennessee College of Applied Technology-Murfreesboro,491,TRUE
+Tennessee College of Applied Technology-Nashville,806,TRUE
+Tennessee College of Applied Technology-Newbern,413,TRUE
+Tennessee College of Applied Technology-Oneida/Huntsville,276,TRUE
+Tennessee College of Applied Technology-Paris,271,TRUE
+Tennessee College of Applied Technology-Pulaski,592,TRUE
+Tennessee College of Applied Technology-Ripley,205,TRUE
+Tennessee College of Applied Technology-Shelbyville,485,TRUE
+Tennessee College of Applied Technology-Whiteville,278,TRUE
+Tennessee State University,8177,TRUE
+Tennessee Technological University,10504,TRUE
+The University of the South,1778,TRUE
+Trevecca Nazarene University,3620,TRUE
+Tusculum University,1767,TRUE
+Union University,3377,TRUE
+University of Memphis,21521,TRUE
+University of Tennessee Health Science Center,3199,TRUE
+University of Tennessee at Chattanooga,11587,TRUE
+University of Tennessee at Martin,6772,TRUE
+"University of Tennessee, Knoxville",28321,TRUE
+Vanderbilt University,12592,TRUE
+Volunteer State Community College,8838,TRUE
+Walters State Community College,6075,TRUE
+Abilene Christian University,5145,TRUE
+Angelo State University,10417,TRUE
+Austin College,1228,TRUE
+Austin Community College District,40803,TRUE
+Baylor University,17059,TRUE
+Blinn College,19476,TRUE
+Brazosport College,4245,TRUE
+Collin College McKinney,31666,TRUE
+Concordia University Texas,2620,TRUE
+Dallas Baptist University,5067,TRUE
+East Texas Baptist University,1533,TRUE
+Galveston College,2208,TRUE
+Grayson College,4389,TRUE
+Hardin-Simmons University,2252,TRUE
+Hill College,4236,TRUE
+Houston Baptist University,3325,TRUE
+Howard Payne University,1072,TRUE
+Lamar University,14506,TRUE
+Laredo College,9881,TRUE
+LeTourneau University,3003,TRUE
+Lubbock Christian University,1883,TRUE
+McLennan Community College,8880,TRUE
+McMurry University,1108,TRUE
+Midland College,5564,TRUE
+Midwestern State University,6080,TRUE
+Odessa College,6282,TRUE
+Prairie View A&M University,9219,TRUE
+Rice University,7022,TRUE
+Saint Edward's University,4447,TRUE
+Sam Houston State University,20938,TRUE
+Schreiner University,1312,TRUE
+South Texas College,31321,TRUE
+Southern Methodist University,11789,TRUE
+Southwestern University,1396,TRUE
+St. Mary's University,3649,TRUE
+Stephen F. Austin State University,12614,TRUE
+Sul Ross State University,2946,TRUE
+Tarleton State University,13019,TRUE
+Texas A&M International University,7654,TRUE
+Texas A&M University,68625,TRUE
+Texas A&M University-Central Texas,2652,TRUE
+Texas A&M University-Commerce,13244,TRUE
+Texas A&M University-Corpus Christi,11929,TRUE
+Texas A&M University-Kingsville,6174,TRUE
+Texas A&M University-San Antonio,,TRUE
+Texas A&M University-Texarkana,,TRUE
+Texas Christian University,10489,TRUE
+Texas College,983,TRUE
+Texas Lutheran University,1394,TRUE
+Texas Southern University,10237,TRUE
+Texas State University,38666,TRUE
+Texas Tech University,36996,TRUE
+Texas Tech University Health Sciences Center,5453,TRUE
+Texas Tech University Health Sciences Center El Paso,,TRUE
+Texas Wesleyan University,2396,TRUE
+Texas Woman’s University,15473,TRUE
+Trinity University,2571,TRUE
+Tyler Junior College,11649,TRUE
+University of Dallas,2510,TRUE
+University of Houston,45364,TRUE
+University of Houston-Clear Lake,8542,TRUE
+University of Houston-Downtown,13919,TRUE
+University of Houston-Victoria,4353,TRUE
+University of Mary Hardin at Baylor,3914,TRUE
+University of North Texas,38276,TRUE
+University of North Texas Health Science Center,2285,TRUE
+University of North Texas at Dallas,3509,TRUE
+University of St. Thomas,9878,TRUE
+University of Texas Health Science Center at Houston,5242,TRUE
+University of Texas Health Science Center at San Antonio,3277,TRUE
+University of Texas Health Science Center at Tyler,35,TRUE
+University of Texas MD Anderson Cancer Center,357,TRUE
+University of Texas Medical Branch at Galveston,3302,TRUE
+University of Texas Permian Basin,7022,TRUE
+University of Texas Rio Grande Valley,27809,TRUE
+University of Texas Southwestern Medical Center,2238,TRUE
+University of Texas at Arlington,46497,TRUE
+University of Texas at Austin,51525,TRUE
+University of Texas at Dallas,27642,TRUE
+University of Texas at El Paso,25078,TRUE
+University of Texas at San Antonio,30768,TRUE
+University of Texas at Tyler,10402,TRUE
+University of the Incarnate Word,8603,TRUE
+Wayland Baptist University,4847,TRUE
+West Texas A&M University,10060,TRUE
+Brigham Young University,34334,TRUE
+Dixie State University,9673,TRUE
+Salt Lake Community College,29620,TRUE
+Snow College,5563,TRUE
+Southern Utah University,9468,TRUE
+University of Utah,32800,TRUE
+Utah State University,27679,TRUE
+Utah Valley University,37282,TRUE
+Weber State University,27949,TRUE
+Westminster College,767,TRUE
+Bennington College,851,TRUE
+Castleton University,2141,TRUE
+Champlain College,4749,TRUE
+Landmark College,461,TRUE
+Middlebury College,2591,TRUE
+Northern Vermont University-Johnson,1925,TRUE
+Northern Vermont University-Lyndon,1200,TRUE
+Norwich University,4100,TRUE
+Saint Michael's College,2077,TRUE
+University of Vermont,13340,TRUE
+Vermont Technical College,1616,TRUE
+University of the Virgin Islands,2170,TRUE
+Averett University,927,TRUE
+Bluefield College,997,TRUE
+Bridgewater College,1889,TRUE
+Christopher Newport University,5081,TRUE
+Danville Community College,3101,TRUE
+Eastern Mennonite University,1530,TRUE
+Eastern Virginia Medical School,1256,TRUE
+Emory & Henry College,1226,TRUE
+Ferrum College,1137,TRUE
+George Mason University,35984,TRUE
+Hampden-Sydney College,1046,TRUE
+Hampton University,4618,TRUE
+Hollins University,790,TRUE
+James Madison University,21836,TRUE
+Liberty University,75044,TRUE
+Longwood University,5074,TRUE
+Mary Baldwin University,1654,TRUE
+Marymount University,3375,TRUE
+Norfolk State University,5305,TRUE
+Old Dominion University,24375,TRUE
+Radford University,9418,TRUE
+Randolph College,684,TRUE
+Randolph-Macon College,1453,TRUE
+Roanoke College,2035,TRUE
+Shenandoah University,3844,TRUE
+Southern Virginia University,911,TRUE
+Sweet Briar College,323,TRUE
+University of Lynchburg,2810,TRUE
+University of Mary Washington,4808,TRUE
+University of Richmond,4023,TRUE
+University of Virginia,24360,TRUE
+University of Virginia's College at Wise,2095,TRUE
+Virginia Commonwealth University,30675,TRUE
+Virginia Highlands Community College,2328,TRUE
+Virginia Military Institute,1722,TRUE
+Virginia State University,4713,TRUE
+Virginia Tech,1621,TRUE
+Virginia Union University,1674,TRUE
+Virginia Wesleyan University,1470,TRUE
+Washington and Lee University,2220,TRUE
+William & Mary,8740,TRUE
+American University,13858,TRUE
+Catholic University of America,6023,TRUE
+Gallaudet University,1578,TRUE
+George Washington University,27973,TRUE
+Georgetown University,19005,TRUE
+Howard University,9392,TRUE
+Trinity Washington University,1964,TRUE
+University of the District of Columbia,4247,TRUE
+Bellevue College,13322,TRUE
+Bellingham Technical College,2392,TRUE
+Cascadia College,3425,TRUE
+Central Washington University,12901,TRUE
+Centralia College,3122,TRUE
+Clark College,10000,TRUE
+Clover Park Technical College,3883,TRUE
+Columbia Basin College,6708,TRUE
+Eastern Washington University,12607,TRUE
+Edmonds College,8100,TRUE
+Everett Community College,7740,TRUE
+Evergreen State College,3907,TRUE
+Gonzaga University,7506,TRUE
+Grays Harbor College,1971,TRUE
+Green River College,8048,TRUE
+Highline College,6824,TRUE
+Lake Washington Institute of Technology,3697,TRUE
+Lower Columbia College,2935,TRUE
+North Seattle College,6259,TRUE
+Northwest Indian College,544,TRUE
+Olympic College,6476,TRUE
+Pacific Lutheran University,3122,TRUE
+Peninsula College,2094,TRUE
+Pierce College Fort Steilacoom,6048,TRUE
+Renton Technical College,3763,TRUE
+Saint Martin's University,1565,TRUE
+Seattle Central College,6928,TRUE
+Seattle Pacific University,3783,TRUE
+Seattle University,7278,TRUE
+Skagit Valley College,4670,TRUE
+South Seattle College,6716,TRUE
+Spokane Community College,10014,TRUE
+Spokane Falls Community College,5589,TRUE
+Tacoma Community College,6496,TRUE
+University of Puget Sound,2701,TRUE
+University of Washington,46166,TRUE
+University of Washington Bothell,5981,TRUE
+University of Washington Tacoma,5162,TRUE
+Walla Walla Community College,4253,TRUE
+Washington State University,30614,TRUE
+Wenatchee Valley College,3556,TRUE
+Western Washington University,15915,TRUE
+Whatcom Community College,4411,TRUE
+Whitman College,1510,TRUE
+Whitworth University,2627,TRUE
+Yakima Valley College,4007,TRUE
+Alderson Broaddus University,1020,TRUE
+Bethany College,775,TRUE
+Bluefield State College,1379,TRUE
+Concord University,2194,TRUE
+Davis & Elkins College,837,TRUE
+Fairmont State University,3886,TRUE
+Glenville State College,1655,TRUE
+Marshall University,13246,TRUE
+Ohio Valley University,560,TRUE
+Potomac State College of West Virginia University,1410,TRUE
+Salem University,8702,TRUE
+Shepherd University,3736,TRUE
+University of Charleston,2481,TRUE
+West Liberty University,2443,TRUE
+West Virginia School of Osteopathic Medicine,849,TRUE
+West Virginia State University,3879,TRUE
+West Virginia University,28409,TRUE
+West Virginia University Institute of Technology,1623,TRUE
+West Virginia University at Parkersburg,2482,TRUE
+West Virginia Wesleyan College,1449,TRUE
+Wheeling University,1124,TRUE
+Alverno College,1942,TRUE
+Beloit College,1402,TRUE
+Carroll University,3452,TRUE
+Carthage College,2860,TRUE
+Concordia University Wisconsin,7288,TRUE
+Edgewood College,2221,TRUE
+Lakeland University,2679,TRUE
+Lawrence University,1467,TRUE
+Madison Area Technical College,15410,TRUE
+Maranatha Baptist University,1139,TRUE
+Marian University,3429,TRUE
+Marquette University,11426,TRUE
+Milwaukee School of Engineering,2823,TRUE
+Mount Mary University,1366,TRUE
+Northland College,635,TRUE
+Ripon College,756,TRUE
+Saint Norbert College,2165,TRUE
+University of Wisconsin-Eau Claire,10904,TRUE
+University of Wisconsin-Green Bay,7174,TRUE
+University of Wisconsin-La Crosse,10548,TRUE
+University of Wisconsin-Madison,42977,TRUE
+University of Wisconsin-Milwaukee,24988,TRUE
+University of Wisconsin-Oshkosh,13933,TRUE
+University of Wisconsin-Parkside,4277,TRUE
+University of Wisconsin-Platteville,8548,TRUE
+University of Wisconsin-River Falls,6105,TRUE
+University of Wisconsin-Stevens Point,8222,TRUE
+University of Wisconsin-Stout,9416,TRUE
+University of Wisconsin-Superior,2595,TRUE
+University of Wisconsin-Whitewater,12434,TRUE
+Viterbo University,2796,TRUE
+Wisconsin Lutheran College,1114,TRUE
+Casper College,3409,TRUE
+Eastern Wyoming College,1560,TRUE
+University of Wyoming,,TRUE
