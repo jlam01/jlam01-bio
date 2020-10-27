@@ -18,3 +18,7 @@ College and county cases were both found from the new york times. I was able to 
 
 ### What types of analyses did you conduct?
 I conducted a *linear regression* on the college and county cases by population to see if the number of cases is correlated with the population. I also conducted a *correlation analysis* between the ratios of cases by population between county and college. Lasty, I conducted several *t-tests*: college cases and population, county cases and population, and college case ratio and county case ratio (which is case divided by population).
+
+### What did you find? Present result.
+![collegecountycases](https://user-images.githubusercontent.com/67992204/97264093-a5736c80-17fa-11eb-9357-33ce63800bce.png)
+![ratiocollegecountycases](https://user-images.githubusercontent.com/67992204/97264096-a7d5c680-17fa-11eb-88a7-6c9f43503a53.png)
