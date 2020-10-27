@@ -19,6 +19,14 @@ College and county cases were both found from the new york times. I was able to 
 ### What types of analyses did you conduct?
 I conducted a *linear regression* on the college and county cases by population to see if the number of cases is correlated with the population. I also conducted a *correlation analysis* between the ratios of cases by population between county and college. Lasty, I conducted several *t-tests*: college cases and population, county cases and population, and college case ratio and county case ratio (which is case divided by population).
 
-### What did you find? Present result.
+### What did you find? Present results.
 ![collegecountycases](https://user-images.githubusercontent.com/67992204/97264093-a5736c80-17fa-11eb-9357-33ce63800bce.png)
+**Figure 1. College and County Cases by Population.** The number of cases (y-axis) per population (x-axis) for college and county was plotted on a linear regression graph (R^2=0.304,0.794) and t-tests were performed (p=2.213e<sup>-85</sup>,1.566e<sup>-40</sup>).
 ![ratiocollegecountycases](https://user-images.githubusercontent.com/67992204/97264096-a7d5c680-17fa-11eb-88a7-6c9f43503a53.png)
+**Figure 2. Ratio of cases in Colleges vs. Counties.** The number of cases for colleges and counties were divided by the population size of each, respectively, and plotted on a graph. The correlation was calculated (corr=0.395) and a t-test was performed (p=0.098).
+
+### What are the implications of these results?
+Through the linear regression graphs done in Figure 1, the cases and populations in the county are presented to be more correlated in comparison to the cases and population in the colleges due to the higher R^2 by 0.49. As shown through the t-tests performed for the graphs in Figure 1, it can be concluded that the cases and population correlations are not due to pure chance as the p-values are both greater than 0.5 and the null hypothesis can be rejected. Meanwhile, through the correlation analysis of the ratio of cases in the counties and colleges in Figure 2, although the correlation analysis presented that there is a medium correlation between the ratios, the null hypothesis cannot be rejected as the p-value is greater than 0.5.
+
+### Afterword
+Further analysis may have to be performed in order to see if there may be any correlation between the college and county cases. Since the population data was collected for 2017, since the COVID-19 pandemic did not occur until 2019, a more accurate analysis could be done if the population data for both counties and colleges were collected on 2019 or 2020, especially since the number of cases stretches into 2020.
